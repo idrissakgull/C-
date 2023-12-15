@@ -1,0 +1,44 @@
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\idooo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\idooo\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\idooo\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\idooo\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\LENOVO\Desktop\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\idris\OneDrive\Masaüstü\C# DERSLERİ\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.AssemblyReference.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\HESAP MAKİNESİ\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
