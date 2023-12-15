@@ -1,0 +1,27 @@
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\ClassLibrary3.dll
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\ClassLibrary3.pdb
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojResolveAssemblyReference.cache
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.Cache
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\idris\Desktop\Html-Css-js proje\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\idris\Desktop\Html-Css-js proje\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\idris\Desktop\Html-Css-js proje\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\ClassLibrary3.dll
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\ClassLibrary3.pdb
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.AssemblyReference.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CoreCompileInputs.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.CopyComplete
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
