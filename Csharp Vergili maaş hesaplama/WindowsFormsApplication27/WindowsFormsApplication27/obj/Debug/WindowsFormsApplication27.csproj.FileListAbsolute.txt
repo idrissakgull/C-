@@ -1,0 +1,17 @@
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.ResolveComReference.cache
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\ClassLibrary4.dll
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\ClassLibrary4.pdb
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\ClassLibrary5.dll
+C:\Users\idris\OneDrive\Belgeler\Visual Studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\ClassLibrary5.pdb
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\2021707001 idris-akgül  c#\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.AssemblyReference.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\2021707001 idris-akgül  c#\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\2021707001 idris-akgül  c#\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb

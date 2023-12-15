@@ -1,0 +1,5 @@
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.csprojResolveAssemblyReference.cache
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+c:\users\idris\onedrive\belgeler\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
