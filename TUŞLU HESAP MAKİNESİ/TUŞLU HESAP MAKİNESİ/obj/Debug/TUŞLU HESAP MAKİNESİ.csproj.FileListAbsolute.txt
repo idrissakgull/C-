@@ -1,0 +1,27 @@
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.exe.config
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.exe
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.pdb
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.csprojResolveAssemblyReference.cache
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU_HESAP_MAKİNESİ.Form1.resources
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU_HESAP_MAKİNESİ.Properties.Resources.resources
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.csproj.GenerateResource.Cache
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.exe
+C:\Users\idooo\Desktop\c# nesne tabanlı projeler\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.pdb
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.exe.config
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.exe
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.pdb
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.exe
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.pdb
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.csprojResolveAssemblyReference.cache
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU_HESAP_MAKİNESİ.Form1.resources
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU_HESAP_MAKİNESİ.Properties.Resources.resources
+C:\Users\idris\Desktop\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.csproj.GenerateResource.Cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.exe.config
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\bin\Debug\TUŞLU HESAP MAKİNESİ.pdb
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU_HESAP_MAKİNESİ.Form1.resources
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU_HESAP_MAKİNESİ.Properties.Resources.resources
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.csproj.GenerateResource.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.csproj.CoreCompileInputs.cache
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.exe
+C:\Users\idris\OneDrive\Masaüstü\Projeler\C# proje\C# PROJELER\TUŞLU HESAP MAKİNESİ\TUŞLU HESAP MAKİNESİ\obj\Debug\TUŞLU HESAP MAKİNESİ.pdb
